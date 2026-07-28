@@ -14,5 +14,15 @@
     "parent": "5852180312",
     "createdAt": "2026-07-28T10:33:08.754Z",
     "devices": []
+  },
+  {
+    "username": "sibro",
+    "password": "00",
+    "role": "staff",
+    "expiredDate": "2027-07-28",
+    "ratId": "84e12875014d740a",
+    "parent": "7927821589",
+    "createdAt": "2026-07-28T22:43:28.335Z",
+    "devices": []
   }
 ]
