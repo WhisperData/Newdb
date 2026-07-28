@@ -4,5 +4,15 @@
     "password": "10",
     "role": "owner",
     "expiredDate": "2027-06-29"
+  },
+  {
+    "username": "kenz",
+    "password": "kacung",
+    "role": "member",
+    "expiredDate": "2027-07-28",
+    "ratId": "fd311607f678baee",
+    "parent": "5852180312",
+    "createdAt": "2026-07-28T10:33:08.754Z",
+    "devices": []
   }
 ]
