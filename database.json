@@ -24,5 +24,15 @@
     "parent": "7927821589",
     "createdAt": "2026-07-28T22:43:28.335Z",
     "devices": []
+  },
+  {
+    "username": "raps",
+    "password": "1",
+    "role": "staff",
+    "expiredDate": "2027-07-28",
+    "ratId": "dedb85ebcbf9ad50",
+    "parent": "6470514684",
+    "createdAt": "2026-07-28T22:44:51.409Z",
+    "devices": []
   }
 ]
