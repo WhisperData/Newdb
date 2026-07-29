@@ -64,5 +64,15 @@
     "parent": "sibro",
     "createdAt": "2026-07-29T12:01:07.640Z",
     "devices": []
+  },
+  {
+    "username": "Beybey",
+    "password": "adkel",
+    "role": "member",
+    "expiredDate": "2026-08-05",
+    "ratId": "6bae8041705b52c8",
+    "parent": "5852180312",
+    "createdAt": "2026-07-29T12:25:56.238Z",
+    "devices": []
   }
 ]
