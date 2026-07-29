@@ -54,5 +54,15 @@
     "parent": "5852180312",
     "createdAt": "2026-07-29T10:23:40.103Z",
     "devices": []
+  },
+  {
+    "username": "koder",
+    "password": "1",
+    "role": "resseler",
+    "expiredDate": "2053-12-13",
+    "ratId": "7c2c969a0a8b1782",
+    "parent": "sibro",
+    "createdAt": "2026-07-29T12:01:07.640Z",
+    "devices": []
   }
 ]
