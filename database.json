@@ -44,5 +44,15 @@
     "parent": "6470514684",
     "createdAt": "2026-07-29T10:21:27.945Z",
     "devices": []
+  },
+  {
+    "username": "dodolxxx",
+    "password": "gantenk",
+    "role": "staff",
+    "expiredDate": "2027-07-29",
+    "ratId": "4c689f0c1a8a0a50",
+    "parent": "5852180312",
+    "createdAt": "2026-07-29T10:23:40.103Z",
+    "devices": []
   }
 ]
