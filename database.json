@@ -34,5 +34,15 @@
     "parent": "6470514684",
     "createdAt": "2026-07-28T22:44:51.409Z",
     "devices": []
+  },
+  {
+    "username": "HAMZZSTORE",
+    "password": "67",
+    "role": "owner",
+    "expiredDate": "2027-07-29",
+    "ratId": "cc444a8521868685",
+    "parent": "6470514684",
+    "createdAt": "2026-07-29T10:21:27.945Z",
+    "devices": []
   }
 ]
