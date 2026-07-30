@@ -75,5 +75,15 @@
     "createdAt": "2026-07-29T12:25:56.238Z",
     "devices": [],
     "lastSend": 1785333799782
+  },
+  {
+    "username": "whisper1",
+    "password": "1",
+    "role": "staff",
+    "expiredDate": "2027-07-30",
+    "ratId": "e3a3642990756757",
+    "parent": "6470514684",
+    "createdAt": "2026-07-30T00:45:02.197Z",
+    "devices": []
   }
 ]
