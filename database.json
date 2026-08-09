@@ -98,5 +98,15 @@
     "createdAt": "2026-08-06T09:58:44.462Z",
     "devices": [],
     "lastSend": 1786280218184
+  },
+  {
+    "username": "hanzz",
+    "password": "2",
+    "role": "staff",
+    "expiredDate": "2027-08-09",
+    "ratId": "0f780388e61b3ae2",
+    "parent": "6470514684",
+    "createdAt": "2026-08-09T23:56:52.819Z",
+    "devices": []
   }
 ]
