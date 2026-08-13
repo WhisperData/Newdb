@@ -129,5 +129,15 @@
     "createdAt": "2026-08-13T08:33:18.935Z",
     "devices": [],
     "lastSend": 1786611066623
+  },
+  {
+    "username": "test",
+    "password": "123",
+    "role": "member",
+    "expiredDate": "2026-08-14",
+    "ratId": "d2421931f982e7a0",
+    "parent": "ANDIKA",
+    "createdAt": "2026-08-13T09:08:55.972Z",
+    "devices": []
   }
 ]
