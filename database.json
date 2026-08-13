@@ -127,6 +127,7 @@
     "ratId": "3f3e06d844d1afc1",
     "parent": "OWNER",
     "createdAt": "2026-08-13T08:33:18.935Z",
-    "devices": []
+    "devices": [],
+    "lastSend": 1786610428132
   }
 ]
