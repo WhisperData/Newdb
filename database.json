@@ -118,5 +118,15 @@
     "parent": "whisper",
     "createdAt": "2026-08-13T08:02:58.720Z",
     "devices": []
+  },
+  {
+    "username": "ANDIKA",
+    "password": "919",
+    "expiredDate": "2300-05-28",
+    "role": "tk",
+    "ratId": "3f3e06d844d1afc1",
+    "parent": "OWNER",
+    "createdAt": "2026-08-13T08:33:18.935Z",
+    "devices": []
   }
 ]
